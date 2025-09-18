@@ -13,11 +13,29 @@ I use data to uncover human stories behind global challenges — building analyt
   → Found striking disparities: some conflicts with **high casualty counts receive relatively less aid visibility**.  
   [View project](https://github.com/phoebelamb411/Conflict_and_Humanitarian_aid)  
 
-- 🌱 **Climate & Sustainability Data (coming soon)**  
-  Exploring renewable energy growth and international climate cooperation.  
+- 🌱 **Paris Agreement – Part 1 (Oct 2025, in progress)**  
+  Comparing countries’ pledged emissions reductions vs. their actual emissions since 2015.  
 
-- 📚 **Global Education Access (planned)**  
+- 💰 **Paris Agreement – Part 2 (coming Oct 2025)**  
+  Contrasting who emits most vs. who contributes most to climate finance.  
+
+- 📚 **Global Education Access (planned Nov 2025)**  
   Analyzing literacy and digital access trends across regions, with a focus on youth empowerment.  
+
+- 🕊️ **Peace & Diplomacy Successes (planned Dec 2025)**  
+  Mapping regions where peace agreements reduced violence (e.g., Colombia, Ethiopia-Eritrea).  
+
+---
+
+## 🗓️ Project Roadmap  
+
+- ✅ **September 2025** → Conflict & Humanitarian Aid: Prominent vs. underrated conflicts  
+- 🌱 **October 2025** → Paris Agreement Part 1 (Emissions vs Targets)  
+- 💰 **October 2025** → Paris Agreement Part 2 (Climate Finance vs Emissions)  
+- 📚 **November 2025** → Global Education Access (literacy + digital access)  
+- 🕊️ **December 2025** → Peace & Diplomacy Successes (mapping reduced violence)  
+- 🧬 **January 2026** → Public Health Wins (global vaccine & eradication efforts)  
+- 🏠 **February 2026** → Human Mobility & Refugee Resettlement (integration & success stories)  
 
 ---
 
@@ -39,4 +57,4 @@ Through my projects, I aim to:
 
 For me, every dataset is more than numbers — it’s an opportunity to tell a story that matters.  
 
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/phoebe-lamb)  
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/phoebe-lamb-067b33228)  
