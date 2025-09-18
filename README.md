@@ -28,14 +28,15 @@ I use data to uncover human stories behind global challenges — building analyt
 ---
 
 ## 🗓️ Project Roadmap  
-
-- ✅ **September 2025** → Conflict & Humanitarian Aid: Prominent vs. underrated conflicts  
-- 🌱 **October 2025** → Paris Agreement Part 1 (Emissions vs Targets)  
-- 💰 **October 2025** → Paris Agreement Part 2 (Climate Finance vs Emissions)  
-- 📚 **November 2025** → Global Education Access (literacy + digital access)  
-- 🕊️ **December 2025** → Peace & Diplomacy Successes (mapping reduced violence)  
-- 🧬 **January 2026** → Public Health Wins (global vaccine & eradication efforts)  
-- 🏠 **February 2026** → Human Mobility & Refugee Resettlement (integration & success stories)  
+| Month             | Project                                      | Status       |
+|-------------------|----------------------------------------------|--------------|
+| ✅ **Sep 2025**   | Conflict & Humanitarian Aid                  | Completed    |
+| 🌱 **Oct 2025 (P1)** | Paris Agreement: Emissions vs Targets    | In progress  |
+| 💰 **Oct 2025 (P2)** | Paris Agreement: Climate Finance vs Emissions | Planned |
+| 📚 **Nov 2025**   | Global Education Access                      | Planned      |
+| 🕊️ **Dec 2025**  | Peace & Diplomacy Successes                  | Planned      |
+| 🧬 **Jan 2026**   | Public Health Wins                           | Planned      |
+| 🏠 **Feb 2026**   | Human Mobility & Refugee Resettlement        | Planned      |
 
 ---
 
