@@ -58,4 +58,4 @@ Through my projects, I aim to:
 
 For me, every dataset is more than numbers — it’s an opportunity to tell a story that matters.  
 
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/phoebe-lamb-067b33228)  
+📫 For collaborations or opportunities, please reach out via [LinkedIn](https://www.linkedin.com/in/phoebe-lamb-067b33228)  
