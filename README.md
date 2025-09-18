@@ -11,7 +11,7 @@ I use data to uncover human stories behind global challenges — building analyt
 - 📊 **Conflict & Humanitarian Aid (2024 data)**  
   Visualized mismatches between deaths in major conflicts and humanitarian funding allocations.  
   → Found striking disparities: some conflicts with **high casualty counts receive relatively less aid visibility**.  
-  [View project](https://github.com/phoebelamb411/Conflict_and_Humanitarian_aid)  
+      [View project](https://github.com/phoebelamb411/Conflict_and_Humanitarian_aid)  
 
 - 🌱 **Paris Agreement – Part 1 (Oct 2025, in progress)**  
   Comparing countries’ pledged emissions reductions vs. their actual emissions since 2015.  
