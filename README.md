@@ -31,7 +31,7 @@ I use data to uncover human stories behind global challenges — building analyt
 | Month             | Project                                      | Status       |
 |-------------------|----------------------------------------------|--------------|
 | ✅ **Sep 2025**   | Conflict & Humanitarian Aid                  | Completed    |
-| 🌱 **Oct 2025 (P1)** | Paris Agreement: Emissions vs Targets    | In progress  |
+| 🌱 **Oct 2025 (P1)** | Paris Agreement: Emissions vs Targets    | Completed |
 | 💰 **Oct 2025 (P2)** | Paris Agreement: Climate Finance vs Emissions | Planned |
 | 📚 **Nov 2025**   | Global Education Access                      | Planned      |
 | 🕊️ **Dec 2025**  | Peace & Diplomacy Successes                  | Planned      |
