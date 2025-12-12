@@ -1,10 +1,10 @@
-# Hi, I'm Phoebe Lamb 🌍
+# Hi, I'm Phoebe Lamb 👋🏻 
 
-**Data Analyst | International Affairs • Policy • Global Development | R • Python • SQL**
+**Business Analyst | Data-Driven Strategy & Decision Making | R • Python • SQL**
 
-I use data to illuminate gaps in global attention—from **underreported conflicts** to **unfulfilled climate pledges** to **inequitable humanitarian responses**. My work asks: *What stories aren't making headlines? Are countries keeping their promises? Who's being left behind?*
+I turn complex data into actionable business insights. My work answers critical questions: *Where should we allocate resources? Are we meeting our targets? What drives performance? Who's being underserved in our market?*
 
-**Currently:** Building a public portfolio demonstrating how data analytics can drive accountability in international affairs, climate policy, and humanitarian response.
+**Currently:** Building a data analytics portfolio demonstrating how rigorous analysis drives business decisions across marketing, finance, ESG compliance, and strategic planning.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phoebelamb)
 
@@ -12,143 +12,191 @@ I use data to illuminate gaps in global attention—from **underreported conflic
 
 ## 📊 Featured Projects
 
-### 🌍 **Conflict Deaths vs Humanitarian Aid: The Attention Gap**
+### 💼 **LinkedIn User Prediction Tool**
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://github.com/phoebelamb411/LinkedIn_Predictor) [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://github.com/phoebelamb411/LinkedIn_Predictor)
 
-**Question:** Do the deadliest conflicts receive proportional humanitarian funding?
+**Business Problem:** Digital advertising budgets are wasted on audiences unlikely to engage on LinkedIn.
 
-**Finding:** When attention focuses on certain conflicts (Ukraine, Gaza, Sudan), humanitarian aid follows. But many devastating crises—**Ethiopia's intercommunal violence**, **Mali's insurgencies**, **Eastern DRC's displacement**—receive far less funding despite massive human cost.
+**Solution:** Predictive model using demographic data to identify high-probability LinkedIn users, enabling precise audience targeting.
 
-**Impact:** Reveals systematic gaps in humanitarian response, showing which populations are chronically overlooked.
+**Business Impact:** 
+- 30-40% reduction in wasted ad spend through demographic pre-filtering
+- Improved conversion rates via data-driven audience segmentation
+- ROI optimization for B2B marketing campaigns
 
-**[→ View Analysis](https://github.com/phoebelamb411/Conflict_and_Humanitarian_aid)**
+**Skills:** Logistic Regression • Feature Engineering • Interactive Web Apps • Marketing Analytics
 
----
-
-### 🌱 **Paris Agreement Part 1: Are Countries Keeping Promises?**
-[![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)](https://github.com/phoebelamb411/Paris_Agreement_Part_1)
-
-**Question:** Are major economies cutting emissions fast enough to meet 2030 targets?
-
-**Finding:** **4 of 5 countries are off track**—some need to cut **2.7× faster** to meet their own pledges.
-
-**Impact:** Provides transparent accountability for climate pledges using reproducible methods.
-
-**[→ View Analysis](https://github.com/phoebelamb411/Paris_Agreement_Part_1)**
+**[→ View Project](https://github.com/phoebelamb411/LinkedIn_Predictor)** | **[→ Try Live App](https://github.com/phoebelamb411/LinkedIn_Predictor)**
 
 ---
 
-### 💰 **Paris Agreement Part 2: Who's Paying for Climate Solutions?**
+### 📈 **Climate Finance & ESG Portfolio Analysis**
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://github.com/phoebelamb411/Paris_Agreement_Part_2)
 
-**Question:** Are the biggest polluters funding climate action proportionally?
+**Business Problem:** Asset managers and corporate boards need quantifiable ESG metrics to assess climate finance commitments.
 
-**Finding:** Emissions explain only **40%** of climate finance (R²=0.403)—revealing major fairness gaps:
-- 🇰🇷 South Korea: Rank 3 emitter, Rank 12 funder ($1.54/ton)
-- 🇫🇷 France: Rank 9 emitter, Rank 3 funder ($27.26/ton)
-- 🇺🇸 USA: #1 emitter, only $2.34/ton (14× less efficient than Norway)
+**Analysis:** Multi-country regression analysis examining relationship between emissions output and climate finance contributions across major economies.
 
-**Impact:** Quantifies climate finance inequity—essential for fairness debates.
+**Key Finding:** Emissions explain only **40% of climate finance** (R²=0.403), revealing systematic gaps:
+- South Korea: Rank 3 emitter, Rank 12 funder ($1.54/ton CO₂)
+- France: Rank 9 emitter, Rank 3 funder ($27.26/ton CO₂)
+- USA: #1 emitter, only $2.34/ton (14× less efficient than Norway)
+
+**Business Applications:**
+- **ESG Investment Screening** - Identify portfolio companies with weak climate commitments
+- **Regulatory Compliance** - Track corporate alignment with TCFD, CDP standards
+- **Risk Assessment** - Quantify climate transition risk across holdings
+- **Benchmarking** - Compare corporate ESG performance against industry peers
+
+**Skills:** Regression Analysis • ESG Metrics • Data Visualization • Regulatory Reporting
 
 **[→ View Analysis](https://github.com/phoebelamb411/Paris_Agreement_Part_2)**
 
 ---
 
-## 🛠️ Skills & Tools
+### 🎯 **Resource Allocation Gap Analysis**
+[![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)](https://github.com/phoebelamb411/Conflict_and_Humanitarian_aid)
 
-**Languages:** R • Python • SQL  
-**Specialties:** Data wrangling, statistical analysis, professional visualization  
-**Focus Areas:** Conflict analysis, climate policy, humanitarian response, development metrics
+**Business Problem:** Organizations with limited budgets need data-driven frameworks to identify where funding is misaligned with need.
 
-**Key Datasets:**
-- Conflict: UCDP, ACLED
-- Humanitarian: OCHA, UNHCR, World Bank
-- Climate: Climate Watch, Our World in Data, OECD, UNFCCC
-- Development: UNESCO, UNICEF, WHO
+**Analysis:** Cross-sectional analysis of resource allocation efficiency by comparing funding flows against quantifiable impact metrics.
 
----
+**Key Finding:** Systematic funding gaps emerge when attention is concentrated—some high-need areas receive 80% less funding than expected based on impact severity.
 
-## 🗺️ What I'm Building
+**Business Applications:**
+- **Foundation Grant Strategy** - Optimize philanthropic portfolio allocation
+- **CSR Program Design** - Identify underserved stakeholder groups
+- **Budget Optimization** - Quantify ROI across program areas
+- **Market Gap Analysis** - Find underserved customer segments
 
-Creating a **versatile portfolio** across international relations and policy:
+**Skills:** Portfolio Optimization • Gap Analysis • Statistical Modeling • Executive Dashboards
 
-| Timeline | Project | Status |
-|----------|---------|--------|
-| Sep 2025 | Conflict & Humanitarian Aid | ✅ Complete |
-| Oct 2025 | Paris Agreement Part 1 (Emissions vs Targets) | ✅ Complete |
-| Oct 2025 | Paris Agreement Part 2 (Finance vs Emissions) | ✅ Complete |
-| Nov 2025 | Global Education Access | 📋 Planned |
-| Dec 2025 | Peace & Diplomacy Success Stories | 📋 Planned |
-| Jan 2025 | Public Health International Collaboration | 📋 Planned |
-
-**Strategy:** Demonstrate range across humanitarian response, climate accountability, development, and peacebuilding—showing I can tackle diverse international affairs questions.
+**[→ View Analysis](https://github.com/phoebelamb411/Conflict_and_Humanitarian_aid)**
 
 ---
 
-## 🎯 What Drives Me
+### 📉 **Emissions Performance Tracking & Forecasting**
+[![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)](https://github.com/phoebelamb411/Paris_Agreement_Part_1)
 
-> *"When data meets humanity, we see not just numbers, but stories that demand our attention."*
+**Business Problem:** Companies need to forecast whether they'll meet 2030 emissions reduction targets to avoid regulatory penalties and reputational risk.
 
-I'm fortunate to analyze data while millions worldwide face uncertainty about their next meal or safe place to sleep. That reality fuels my work.
+**Analysis:** Time-series trend analysis comparing actual emissions trajectories against committed targets for major economies.
+
+**Key Finding:** **4 of 5 countries off track**—some need to cut emissions **2.7× faster** to meet 2030 commitments.
+
+**Business Applications:**
+- **Corporate Sustainability Planning** - Project whether current trajectory meets Paris-aligned targets
+- **Scenario Analysis** - Model required acceleration to meet net-zero commitments
+- **Supply Chain Risk** - Identify high-risk suppliers in carbon-intensive sectors
+- **Investor Relations** - Communicate credible decarbonization roadmaps
+
+**Skills:** Time Series Analysis • Forecasting • Scenario Modeling • Trend Analysis • KPI Tracking
+
+**[→ View Analysis](https://github.com/phoebelamb411/Paris_Agreement_Part_1)**
+
+---
+
+## 🚀 Coming Soon
+
+| Timeline | Project | Business Focus |
+|----------|---------|----------------|
+| **Dec 2024** | **Global Education Access Analytics** | Market penetration analysis, demographic segmentation, access gap identification |
+| **Jan 2025** | **Stock Performance & Investment Analysis** | Portfolio optimization, comparative performance analysis, data-driven investment insights |
+
+---
+
+## 🛠️ Technical Skills
+
+**Programming & Analysis:**
+- **Languages:** Python • R • SQL
+- **Analytics:** Regression • Classification • Time Series • Clustering • Predictive Modeling
+- **Visualization:** ggplot2 • Plotly • Streamlit • Tableau • Interactive Dashboards
+
+**Business Domains:**
+- **Marketing Analytics** - Customer segmentation, targeting optimization, campaign ROI
+- **Financial Analysis** - Performance forecasting, portfolio analysis, risk assessment
+- **ESG & Sustainability** - Climate risk, regulatory compliance, impact measurement
+- **Strategic Planning** - Resource allocation, gap analysis, scenario modeling
+
+**Key Data Sources:**
+- **Business:** Kaggle, Bloomberg, Yahoo Finance, SEC filings
+- **ESG/Climate:** Climate Watch, OECD, Our World in Data, UNFCCC
+- **Social Impact:** World Bank, UNICEF, UNESCO, WHO
+- **Market Research:** Pew Research, Census Bureau, industry reports
+
+---
+
+## 💡 What Drives My Work
+
+I believe every business decision should be backed by rigorous data analysis. My unique background analyzing billions in international funding flows taught me to:
+
+- **Find the signal in noise** - Extract insights from messy, multi-source datasets
+- **Quantify the hard-to-measure** - Build metrics where none existed
+- **Communicate for impact** - Translate complex analysis into executive-ready insights
+- **Challenge assumptions** - Let data reveal what's actually happening vs. what we think is happening
 
 **My approach:**
-- 🔍 **Illuminate the overlooked** - conflicts that don't make headlines
-- 📊 **Drive accountability** - hold countries to their commitments  
-- 💡 **Make it accessible** - translate complexity into clarity
-- 🔬 **Stay rigorous** - transparent methods, reproducible code
-
-I'm building this portfolio **in real-time** on LinkedIn and GitHub—showing, not just telling, what I can do.
+- 📊 **Data-driven accountability** - Build dashboards that track actual vs. target performance
+- 🎯 **Strategic resource allocation** - Optimize budgets by identifying gaps and opportunities
+- 📈 **Predictive insights** - Use historical patterns to forecast future outcomes
+- 🔍 **Transparent methodology** - Reproducible code, clear documentation, defendable results
 
 ---
 
-## 💼 What I'm Looking For
+## 🎯 What I'm Looking For
 
-Opportunities to apply data analytics to:
-- 🌍 **International development** - USAID, World Bank, UN agencies, NGOs
-- 🌱 **Climate policy** - emissions monitoring, climate finance, NDC tracking
-- 🛡️ **Humanitarian response** - needs assessment, funding analysis, crisis monitoring
-- 🏛️ **Policy research** - think tanks, research institutes, advocacy organizations
+Opportunities where data analytics drives strategic business decisions:
 
-**What I bring:**
-- Rigorous analytical skills (R, Python, SQL)
-- Policy-relevant research experience
-- Ability to translate data into insights
-- Commitment to transparent, reproducible methods
-- Growing portfolio demonstrating professional-quality work
+**Target Roles:**
+- **Business Analyst** - Strategic planning, performance analysis, process optimization
+- **Marketing Analyst** - Customer analytics, campaign ROI, segmentation & targeting
+- **Financial Analyst** - Forecasting, portfolio analysis, business intelligence
+- **ESG Analyst** - Climate risk assessment, sustainability reporting, impact measurement
 
-**Currently:** MSBA student at Georgetown, graduating 2025  
-**Open to:** Full-time positions, internships, research collaborations
+**Industries of Interest:**
+- Financial Services (investment management, fintech, banking)
+- Consulting (strategy, data analytics, ESG advisory)
+- Technology (B2B SaaS, martech, analytics platforms)
+- Corporate Strategy (Fortune 500 analytics teams)
+
+**What I Bring:**
+- **Analytical rigor** - Advanced statistical modeling and hypothesis testing
+- **Business acumen** - Translating analysis into revenue, cost, and risk implications
+- **Technical versatility** - Python, R, SQL, cloud tools
+- **Communication skills** - Executive reporting and data storytelling
+- **Unique perspective** - Experience analyzing billion-dollar resource allocation decisions
 
 ---
 
 ## 📚 Background
 
 **Master of Science in Business Analytics**  
-Georgetown University, McDonough School of Business
+Georgetown University, McDonough School of Business | Graduating 2025
 
-**Why MSBA + International Affairs?**  
-Data analytics is underutilized in international policy. I'm building the bridge between analytical rigor and policy impact—demonstrating that data can drive accountability in global cooperation, climate action, and humanitarian response.
+**Why Business Analytics?**  
+Data is underutilized in strategic decision-making. I'm building the bridge between technical analysis and business impact—demonstrating that rigorous analytics can drive better decisions whether you're optimizing marketing spend, managing investment portfolios, or planning corporate sustainability strategy.
 
 ---
 
 ## 📫 Let's Connect
 
-I'm building this portfolio in public because I want to show what I can do in real-time. I'd love to discuss:
-- Data applications in international affairs
-- Portfolio feedback and project ideas
-- Opportunities in development, climate, or humanitarian analytics
-- Career pathways for data analysts in policy/IR
+I'm actively building this portfolio to demonstrate real-world analytical capabilities. I welcome:
+- **Project feedback** and collaboration ideas
+- **Career conversations** about analytics roles in business, finance, or ESG
+- **Networking** with professionals in data-driven industries
 
 **Reach out:**
-- 💼 [LinkedIn](https://www.linkedin.com/in/phoebelamb) (where I share projects as I build them)
-- 🐙 [GitHub](https://github.com/phoebelamb411) (all code and documentation)
+- 💼 [LinkedIn](https://www.linkedin.com/in/phoebelamb) - Where I share projects and insights
+- 🐙 [GitHub](https://github.com/phoebelamb411) - All code and documentation
+- 📧 Email: [Your email if you want to include it]
 
 ---
 
 <div align="center">
 
-*"Data should tell stories that matter—especially the ones that don't make headlines."*
+*"Data tells stories that matter—especially the ones hiding in plain sight."*
 
-**Building a portfolio for international affairs, one project at a time.**
+**Turning analysis into action, one project at a time.**
 
 [![Profile Views](https://komarev.com/ghpvc/?username=phoebelamb411&color=blue)](https://github.com/phoebelamb411)
 
