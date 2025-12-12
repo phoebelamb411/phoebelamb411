@@ -73,12 +73,12 @@ Creating a **versatile portfolio** across international relations and policy:
 
 | Timeline | Project | Status |
 |----------|---------|--------|
-| Sep 2024 | Conflict & Humanitarian Aid | ✅ Complete |
-| Oct 2024 | Paris Agreement Part 1 (Emissions vs Targets) | ✅ Complete |
-| Nov 2024 | Paris Agreement Part 2 (Finance vs Emissions) | ✅ Complete |
-| Q1 2025 | Global Education Access | 📋 Planned |
-| Q1 2025 | Peace & Diplomacy Success Stories | 📋 Planned |
-| Q2 2025 | Public Health International Collaboration | 📋 Planned |
+| Sep 2025 | Conflict & Humanitarian Aid | ✅ Complete |
+| Oct 2025 | Paris Agreement Part 1 (Emissions vs Targets) | ✅ Complete |
+| Oct 2025 | Paris Agreement Part 2 (Finance vs Emissions) | ✅ Complete |
+| Nov 2025 | Global Education Access | 📋 Planned |
+| Dec 2025 | Peace & Diplomacy Success Stories | 📋 Planned |
+| Jan 2025 | Public Health International Collaboration | 📋 Planned |
 
 **Strategy:** Demonstrate range across humanitarian response, climate accountability, development, and peacebuilding—showing I can tackle diverse international affairs questions.
 
@@ -97,6 +97,26 @@ I'm fortunate to analyze data while millions worldwide face uncertainty about th
 - 🔬 **Stay rigorous** - transparent methods, reproducible code
 
 I'm building this portfolio **in real-time** on LinkedIn and GitHub—showing, not just telling, what I can do.
+
+---
+
+## 💼 What I'm Looking For
+
+Opportunities to apply data analytics to:
+- 🌍 **International development** - USAID, World Bank, UN agencies, NGOs
+- 🌱 **Climate policy** - emissions monitoring, climate finance, NDC tracking
+- 🛡️ **Humanitarian response** - needs assessment, funding analysis, crisis monitoring
+- 🏛️ **Policy research** - think tanks, research institutes, advocacy organizations
+
+**What I bring:**
+- Rigorous analytical skills (R, Python, SQL)
+- Policy-relevant research experience
+- Ability to translate data into insights
+- Commitment to transparent, reproducible methods
+- Growing portfolio demonstrating professional-quality work
+
+**Currently:** MSBA student at Georgetown, graduating 2025  
+**Open to:** Full-time positions, internships, research collaborations
 
 ---
 
@@ -133,4 +153,3 @@ I'm building this portfolio in public because I want to show what I can do in re
 [![Profile Views](https://komarev.com/ghpvc/?username=phoebelamb411&color=blue)](https://github.com/phoebelamb411)
 
 </div>
-
