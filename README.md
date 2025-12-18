@@ -1,10 +1,11 @@
-# Hi, I'm Phoebe Lamb 👋🏻 
+# Hi, I'm Phoebe Lamb 👋🏻
 
-**Business Analyst | Data-Driven Strategy & Decision Making | R • Python • SQL**
+**Data Analyst at the Intersection of Business Analytics & International Affairs**  
+**R • Python • SQL • Tableau**
 
-I turn complex data into actionable business insights. My work answers critical questions: *Where should we allocate resources? Are we meeting our targets? What drives performance? Who's being underserved in our market?*
+I use data to answer critical questions—whether for corporate strategy or global policy: *Where should we allocate resources? Are we meeting our targets? What drives performance? Who's being left behind?*
 
-**Currently:** Building a data analytics portfolio demonstrating how rigorous analysis drives business decisions across marketing, finance, ESG compliance, and strategic planning.
+**Currently:** Dual graduate student combining business analytics (Georgetown MSBA 26') with international affairs (Seton Hall MA '27). Building a portfolio that demonstrates how data analytics drives better decisions across **corporate strategy, humanitarian response, ESG investing, and global policy**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phoebelamb)
 
@@ -98,10 +99,10 @@ I turn complex data into actionable business insights. My work answers critical 
 
 ## 🚀 Coming Soon
 
-| Timeline | Project | Business Focus |
-|----------|---------|----------------|
-| **Dec 2024** | **Global Education Access Analytics** | Market penetration analysis, demographic segmentation, access gap identification |
-| **Jan 2025** | **Stock Performance & Investment Analysis** | Portfolio optimization, comparative performance analysis, data-driven investment insights |
+| Timeline | Project | Focus Areas |
+|----------|---------|-------------|
+| **Dec 2024** | **Global Education Access Analytics** | Market gap analysis, demographic segmentation, policy impact assessment, development finance |
+| **Jan 2025** | **Stock Performance & Investment Analysis** | Portfolio optimization, risk-adjusted returns, investment strategy comparison, financial modeling |
 
 ---
 
@@ -116,7 +117,8 @@ I turn complex data into actionable business insights. My work answers critical 
 - **Marketing Analytics** - Customer segmentation, targeting optimization, campaign ROI
 - **Financial Analysis** - Performance forecasting, portfolio analysis, risk assessment
 - **ESG & Sustainability** - Climate risk, regulatory compliance, impact measurement
-- **Strategic Planning** - Resource allocation, gap analysis, scenario modeling
+- **International Development** - Resource allocation, humanitarian response, policy effectiveness
+- **Strategic Planning** - Portfolio optimization, gap analysis, scenario modeling
 
 **Key Data Sources:**
 - **Business:** Kaggle, Bloomberg, Yahoo Finance, SEC filings
@@ -126,77 +128,44 @@ I turn complex data into actionable business insights. My work answers critical 
 
 ---
 
-## 💡 What Drives My Work
+## 💡 My Approach
 
-I believe every business decision should be backed by rigorous data analysis. My unique background analyzing billions in international funding flows taught me to:
+I bring **analytical rigor from business** to problems in **international affairs and ESG**.
 
-- **Find the signal in noise** - Extract insights from messy, multi-source datasets
-- **Quantify the hard-to-measure** - Build metrics where none existed
-- **Communicate for impact** - Translate complex analysis into executive-ready insights
-- **Challenge assumptions** - Let data reveal what's actually happening vs. what we think is happening
+**What makes my work different:**
+- **Cross-sector fluency** - Translate between corporate KPIs and policy metrics
+- **Quantitative rigor** - Statistical modeling, forecasting, hypothesis testing on messy real-world data
+- **Impact focus** - Whether analyzing marketing ROI or humanitarian funding, I measure what matters
+- **Reproducible methods** - Transparent code, clear documentation, defendable results
 
-**My approach:**
-- 📊 **Data-driven accountability** - Build dashboards that track actual vs. target performance
-- 🎯 **Strategic resource allocation** - Optimize budgets by identifying gaps and opportunities
-- 📈 **Predictive insights** - Use historical patterns to forecast future outcomes
-- 🔍 **Transparent methodology** - Reproducible code, clear documentation, defendable results
+**Technical foundation** (Georgetown MSBA '26) + **Policy context** (Seton Hall MA International Affairs '26) = professionals who can bridge data analytics with diplomatic judgment.
 
 ---
 
-## 🎯 What I'm Looking For
+## 📚 Education
 
-Opportunities where data analytics drives strategic business decisions:
+**Master of Science in Business Analytics** | Georgetown University  
+McDonough School of Business | Expected December 2026  
+*Merit Scholarship Recipient, Class Representative*
 
-**Target Roles:**
-- **Business Analyst** - Strategic planning, performance analysis, process optimization
-- **Marketing Analyst** - Customer analytics, campaign ROI, segmentation & targeting
-- **Financial Analyst** - Forecasting, portfolio analysis, business intelligence
-- **ESG Analyst** - Climate risk assessment, sustainability reporting, impact measurement
+**Master of Arts in International Affairs** | Seton Hall University  
+School of Diplomacy and International Relations | Expected May 2026  
+*Dean's Graduate Scholarship & Graduate Merit Scholarship Recipient*
 
-**Industries of Interest:**
-- Financial Services (investment management, fintech, banking)
-- Consulting (strategy, data analytics, ESG advisory)
-- Technology (B2B SaaS, martech, analytics platforms)
-- Corporate Strategy (Fortune 500 analytics teams)
-
-**What I Bring:**
-- **Analytical rigor** - Advanced statistical modeling and hypothesis testing
-- **Business acumen** - Translating analysis into revenue, cost, and risk implications
-- **Technical versatility** - Python, R, SQL, cloud tools
-- **Communication skills** - Executive reporting and data storytelling
-- **Unique perspective** - Experience analyzing billion-dollar resource allocation decisions
+**Dual Degree Focus:** Building expertise at the intersection of quantitative analytics and international policy—combining technical skills (Python, R, SQL, machine learning) with global context (development finance, humanitarian response, climate policy).
 
 ---
 
-## 📚 Background
+## 📫 Connect
 
-**Master of Science in Business Analytics**  
-Georgetown University, McDonough School of Business | Graduating 2025
-
-**Why Business Analytics?**  
-Data is underutilized in strategic decision-making. I'm building the bridge between technical analysis and business impact—demonstrating that rigorous analytics can drive better decisions whether you're optimizing marketing spend, managing investment portfolios, or planning corporate sustainability strategy.
-
----
-
-## 📫 Let's Connect
-
-I'm actively building this portfolio to demonstrate real-world analytical capabilities. I welcome:
-- **Project feedback** and collaboration ideas
-- **Career conversations** about analytics roles in business, finance, or ESG
-- **Networking** with professionals in data-driven industries
-
-**Reach out:**
-- 💼 [LinkedIn](https://www.linkedin.com/in/phoebelamb) - Where I share projects and insights
-- 🐙 [GitHub](https://github.com/phoebelamb411) - All code and documentation
-- 📧 Email: [Your email if you want to include it]
+💼 [LinkedIn](https://www.linkedin.com/in/phoebelamb)
+🐙 [GitHub](https://github.com/phoebelamb411) 
 
 ---
 
 <div align="center">
 
 *"Data tells stories that matter—especially the ones hiding in plain sight."*
-
-**Turning analysis into action, one project at a time.**
 
 [![Profile Views](https://komarev.com/ghpvc/?username=phoebelamb411&color=blue)](https://github.com/phoebelamb411)
 
