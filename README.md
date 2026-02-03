@@ -1,6 +1,6 @@
 # Hi, I'm Phoebe Lamb 👋🏻
 
-**Data Analyst at the Intersection of Business Analytics & International Affairs**  
+**Data Analyst**  
 **R • Python • SQL • Tableau**
 
 I use data to answer critical questions—whether for corporate strategy or global policy: *Where should we allocate resources? Are we meeting our targets? What drives performance? Who's being left behind?*
@@ -101,8 +101,8 @@ I use data to answer critical questions—whether for corporate strategy or glob
 
 | Timeline | Project | Focus Areas |
 |----------|---------|-------------|
-| **Dec 2024** | **Global Education Access Analytics** | Market gap analysis, demographic segmentation, policy impact assessment, development finance |
-| **Jan 2025** | **Stock Performance & Investment Analysis** | Portfolio optimization, risk-adjusted returns, investment strategy comparison, financial modeling |
+| **Feb 2026** | **Stock Performance & Investment Analysis** | Portfolio optimization, risk-adjusted returns, investment strategy comparison, financial modeling |
+| **Mar 2026** | **Global Education Access Analytics** | Market gap analysis, demographic segmentation, policy impact assessment, development finance |
 
 ---
 
@@ -147,12 +147,6 @@ I bring **analytical rigor from business** to problems in **international affair
 **Master of Science in Business Analytics** | Georgetown University  
 McDonough School of Business | Expected December 2026  
 *Merit Scholarship Recipient, Class Representative*
-
-**Master of Arts in International Affairs** | Seton Hall University  
-School of Diplomacy and International Relations | Expected May 2026  
-*Dean's Graduate Scholarship & Graduate Merit Scholarship Recipient*
-
-**Dual Degree Focus:** Building expertise at the intersection of quantitative analytics and international policy—combining technical skills (Python, R, SQL, machine learning) with global context (development finance, humanitarian response, climate policy).
 
 ---
 
