@@ -1,17 +1,35 @@
 # Hi, I'm Phoebe Lamb 👋🏻
 
 **Data Analyst**  
-**R • Python • SQL • Tableau**
+**Python • R • SQL • Tableau**
 
-I use data to answer critical questions—whether for corporate strategy or global policy: *Where should we allocate resources? Are we meeting our targets? What drives performance? Who's being left behind?*
+I use data to answer the questions that actually drive business decisions — *Where should we allocate budget? Which segments convert? What's the risk-adjusted return? Where are the inefficiencies?*
 
-**Currently:** Dual graduate student combining business analytics (Georgetown MSBA 26') with international affairs (Seton Hall MA '27). Building a portfolio that demonstrates how data analytics drives better decisions across **corporate strategy, humanitarian response, ESG investing, and global policy**.
+**Currently:** MSBA candidate at Georgetown University, building a portfolio that spans financial modeling, marketing analytics, and corporate strategy. Every project is designed to demonstrate end-to-end analytical thinking: from messy data to actionable insight.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phoebelamb)
 
 ---
 
 ## 📊 Featured Projects
+
+### 📈 **Stock Performance & Investment Analysis**
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://github.com/phoebelamb411/stock-performance-analysis) [![SQL](https://img.shields.io/badge/SQL-4479C1?logo=postgresql&logoColor=white)](https://github.com/phoebelamb411/stock-performance-analysis)
+
+**Business Problem:** Investment teams need to compare portfolio strategies on a risk-adjusted basis — not just raw returns, but the full picture including drawdown, volatility, and efficiency.
+
+**Solution:** End-to-end financial analysis pipeline: SQL database layer for structured data management, Markowitz portfolio optimization to solve for min-variance and max-Sharpe portfolios, and a backtest engine comparing 5 investment strategies.
+
+**Key Findings:**
+- Max Sharpe portfolio achieved a **3.05 Sharpe ratio** vs. SPY's 2.68 — optimized weights translated directly into real backtest outperformance (58.1% vs. 38%)
+- Momentum strategy posted the 2nd-best return but the **worst drawdown** — clear illustration of return vs. risk tradeoff
+- Min Variance vs. Max Sharpe allocations told opposite stories: one loaded PG for safety, the other tilted V and JPM for alpha. The efficient frontier made the tradeoff visual.
+
+**Skills:** Markowitz Optimization • Portfolio Theory • Risk Metrics (Sharpe, Sortino, VaR, Max Drawdown) • SQL • Financial Modeling • Strategy Backtesting
+
+**[→ View Project](https://github.com/phoebelamb411/stock-performance-analysis)**
+
+---
 
 ### 💼 **LinkedIn User Prediction Tool**
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://github.com/phoebelamb411/LinkedIn_Predictor) [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://github.com/phoebelamb411/LinkedIn_Predictor)
@@ -20,7 +38,7 @@ I use data to answer critical questions—whether for corporate strategy or glob
 
 **Solution:** Predictive model using demographic data to identify high-probability LinkedIn users, enabling precise audience targeting.
 
-**Business Impact:** 
+**Business Impact:**
 - 30-40% reduction in wasted ad spend through demographic pre-filtering
 - Improved conversion rates via data-driven audience segmentation
 - ROI optimization for B2B marketing campaigns
@@ -31,67 +49,64 @@ I use data to answer critical questions—whether for corporate strategy or glob
 
 ---
 
-### 📈 **Climate Finance & ESG Portfolio Analysis**
+### 📉 **ESG Portfolio Screening & Climate Finance Analysis**
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://github.com/phoebelamb411/Paris_Agreement_Part_2)
 
-**Business Problem:** Asset managers and corporate boards need quantifiable ESG metrics to assess climate finance commitments.
+**Business Problem:** Asset managers and corporate boards need quantifiable ESG metrics to screen investments and benchmark climate commitments against peers.
 
-**Analysis:** Multi-country regression analysis examining relationship between emissions output and climate finance contributions across major economies.
+**Analysis:** Multi-country regression analysis quantifying the relationship between emissions output and climate finance contributions. Built a scoring framework that flags misalignment between a company's emissions profile and its funding behavior.
 
-**Key Finding:** Emissions explain only **40% of climate finance** (R²=0.403), revealing systematic gaps:
-- South Korea: Rank 3 emitter, Rank 12 funder ($1.54/ton CO₂)
-- France: Rank 9 emitter, Rank 3 funder ($27.26/ton CO₂)
-- USA: #1 emitter, only $2.34/ton (14× less efficient than Norway)
+**Key Finding:** Emissions explain only **40% of climate finance** (R²=0.403) — the remaining 60% is driven by political and economic factors, which means standard emissions-based screening misses major risk signals.
 
 **Business Applications:**
-- **ESG Investment Screening** - Identify portfolio companies with weak climate commitments
-- **Regulatory Compliance** - Track corporate alignment with TCFD, CDP standards
-- **Risk Assessment** - Quantify climate transition risk across holdings
-- **Benchmarking** - Compare corporate ESG performance against industry peers
+- **ESG Investment Screening** — Flag portfolio companies with weak climate commitments before they become liabilities
+- **Benchmarking** — Compare corporate ESG performance against sector peers using a standardized scoring model
+- **Risk Assessment** — Quantify climate transition risk across a holdings portfolio
+- **Regulatory Compliance** — Track alignment with TCFD and CDP reporting standards
 
-**Skills:** Regression Analysis • ESG Metrics • Data Visualization • Regulatory Reporting
+**Skills:** Regression Analysis • ESG Metrics • Risk Scoring • Data Visualization • Benchmarking
 
 **[→ View Analysis](https://github.com/phoebelamb411/Paris_Agreement_Part_2)**
 
 ---
 
-### 🎯 **Resource Allocation Gap Analysis**
+### 🎯 **Budget Allocation Efficiency & Gap Analysis**
 [![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)](https://github.com/phoebelamb411/Conflict_and_Humanitarian_aid)
 
-**Business Problem:** Organizations with limited budgets need data-driven frameworks to identify where funding is misaligned with need.
+**Business Problem:** Organizations with finite budgets need a data-driven framework to identify where spending is misaligned with impact — before the next budget cycle.
 
-**Analysis:** Cross-sectional analysis of resource allocation efficiency by comparing funding flows against quantifiable impact metrics.
+**Analysis:** Cross-sectional analysis comparing resource allocation against quantifiable impact metrics across multiple categories. Built an efficiency scoring model that ranks allocation decisions by ROI.
 
-**Key Finding:** Systematic funding gaps emerge when attention is concentrated—some high-need areas receive 80% less funding than expected based on impact severity.
+**Key Finding:** Systematic funding gaps emerge when attention concentrates — some high-impact areas receive **80% less funding** than their impact severity warrants. The model flags these before decisions are locked in.
 
 **Business Applications:**
-- **Foundation Grant Strategy** - Optimize philanthropic portfolio allocation
-- **CSR Program Design** - Identify underserved stakeholder groups
-- **Budget Optimization** - Quantify ROI across program areas
-- **Market Gap Analysis** - Find underserved customer segments
+- **Budget Optimization** — Quantify ROI across program areas and reallocate toward highest-impact categories
+- **Grant & Investment Strategy** — Identify underserved segments with the highest marginal return
+- **CSR Program Design** — Build defensible allocation frameworks for corporate social programs
+- **Market Gap Analysis** — Find underserved segments where investment has the most room to grow
 
-**Skills:** Portfolio Optimization • Gap Analysis • Statistical Modeling • Executive Dashboards
+**Skills:** Portfolio Optimization • Gap Analysis • Statistical Modeling • ROI Frameworks • Executive Dashboards
 
 **[→ View Analysis](https://github.com/phoebelamb411/Conflict_and_Humanitarian_aid)**
 
 ---
 
-### 📉 **Emissions Performance Tracking & Forecasting**
+### 📊 **Performance Forecasting & Target Tracking**
 [![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)](https://github.com/phoebelamb411/Paris_Agreement_Part_1)
 
-**Business Problem:** Companies need to forecast whether they'll meet 2030 emissions reduction targets to avoid regulatory penalties and reputational risk.
+**Business Problem:** Corporations need to forecast whether current trajectories will hit committed targets — and if not, quantify exactly how much acceleration is required.
 
-**Analysis:** Time-series trend analysis comparing actual emissions trajectories against committed targets for major economies.
+**Analysis:** Time-series trend analysis comparing actual performance trajectories against committed targets. Built a scenario model that outputs the required rate of change to hit each target by the deadline.
 
-**Key Finding:** **4 of 5 countries off track**—some need to cut emissions **2.7× faster** to meet 2030 commitments.
+**Key Finding:** **4 of 5 entities tracked are off-target** — some need to accelerate **2.7×** to meet commitments. The model flags this early enough to course-correct.
 
 **Business Applications:**
-- **Corporate Sustainability Planning** - Project whether current trajectory meets Paris-aligned targets
-- **Scenario Analysis** - Model required acceleration to meet net-zero commitments
-- **Supply Chain Risk** - Identify high-risk suppliers in carbon-intensive sectors
-- **Investor Relations** - Communicate credible decarbonization roadmaps
+- **KPI Forecasting** — Project whether current trajectory meets stated targets before it's too late
+- **Scenario Planning** — Model what acceleration looks like in practice: cost, timeline, resource requirements
+- **Supply Chain Risk** — Identify high-risk partners based on their own trajectory data
+- **Investor Relations** — Communicate credible performance roadmaps backed by data
 
-**Skills:** Time Series Analysis • Forecasting • Scenario Modeling • Trend Analysis • KPI Tracking
+**Skills:** Time Series Analysis • Forecasting • Scenario Modeling • KPI Tracking • Trend Analysis
 
 **[→ View Analysis](https://github.com/phoebelamb411/Paris_Agreement_Part_1)**
 
@@ -101,8 +116,7 @@ I use data to answer critical questions—whether for corporate strategy or glob
 
 | Timeline | Project | Focus Areas |
 |----------|---------|-------------|
-| **Feb 2026** | **Stock Performance & Investment Analysis** | Portfolio optimization, risk-adjusted returns, investment strategy comparison, financial modeling |
-| **Mar 2026** | **Global Education Access Analytics** | Market gap analysis, demographic segmentation, policy impact assessment, development finance |
+| **Mar 2026** | **Education Investment Efficiency Analysis** | Spending benchmarking, outcome modeling, regression analysis, clustering |
 
 ---
 
@@ -110,50 +124,47 @@ I use data to answer critical questions—whether for corporate strategy or glob
 
 **Programming & Analysis:**
 - **Languages:** Python • R • SQL
-- **Analytics:** Regression • Classification • Time Series • Clustering • Predictive Modeling
-- **Visualization:** ggplot2 • Plotly • Streamlit • Tableau • Interactive Dashboards
+- **Analytics:** Regression • Classification • Time Series • Clustering • Predictive Modeling • Portfolio Optimization
+- **Visualization:** ggplot2 • Matplotlib • Seaborn • Plotly • Streamlit • Tableau • Interactive Dashboards
+- **Tools:** Jupyter Notebook • SQLite • Git • GitHub
 
 **Business Domains:**
-- **Marketing Analytics** - Customer segmentation, targeting optimization, campaign ROI
-- **Financial Analysis** - Performance forecasting, portfolio analysis, risk assessment
-- **ESG & Sustainability** - Climate risk, regulatory compliance, impact measurement
-- **International Development** - Resource allocation, humanitarian response, policy effectiveness
-- **Strategic Planning** - Portfolio optimization, gap analysis, scenario modeling
+- **Financial Analysis** — Portfolio optimization, risk-adjusted returns, strategy backtesting, financial modeling
+- **Marketing Analytics** — Customer segmentation, audience targeting, conversion optimization, campaign ROI
+- **ESG & Investment Screening** — Climate risk quantification, ESG scoring, regulatory benchmarking
+- **Corporate Strategy** — Budget optimization, KPI forecasting, scenario planning, gap analysis
 
 **Key Data Sources:**
-- **Business:** Kaggle, Bloomberg, Yahoo Finance, SEC filings
-- **ESG/Climate:** Climate Watch, OECD, Our World in Data, UNFCCC
-- **Social Impact:** World Bank, UNICEF, UNESCO, WHO
-- **Market Research:** Pew Research, Census Bureau, industry reports
+- **Finance & Business:** Yahoo Finance, SEC filings, Kaggle, Bloomberg
+- **ESG & Sustainability:** Climate Watch, OECD, Our World in Data
+- **Research & Benchmarking:** Pew Research, Census Bureau, World Bank, UNESCO
 
 ---
 
 ## 💡 My Approach
 
-I bring **analytical rigor from business** to problems in **international affairs and ESG**.
+I build analyses that translate directly into decisions — not just charts, but frameworks someone can act on.
 
 **What makes my work different:**
-- **Cross-sector fluency** - Translate between corporate KPIs and policy metrics
-- **Quantitative rigor** - Statistical modeling, forecasting, hypothesis testing on messy real-world data
-- **Impact focus** - Whether analyzing marketing ROI or humanitarian funding, I measure what matters
-- **Reproducible methods** - Transparent code, clear documentation, defendable results
-
-**Technical foundation** (Georgetown MSBA '26) + **Policy context** (Seton Hall MA International Affairs '26) = professionals who can bridge data analytics with diplomatic judgment.
+- **End-to-end ownership** — From SQL database design to executive dashboards, I handle the full pipeline
+- **Risk-aware thinking** — Whether it's portfolio drawdown or budget misallocation, I model the downside, not just the upside
+- **Business-first framing** — Every technical choice (model selection, metric choice, visualization) is driven by what the decision-maker actually needs
+- **Reproducible methods** — Clean code, clear documentation, results that hold up when someone else runs them
 
 ---
 
 ## 📚 Education
 
 **Master of Science in Business Analytics** | Georgetown University  
-McDonough School of Business | Expected December 2026  
-*Merit Scholarship Recipient, Class Representative*
+McDonough School of Business | Expected 2026  
+*Merit Scholarship Recipient*
 
 ---
 
 ## 📫 Connect
 
-💼 [LinkedIn](https://www.linkedin.com/in/phoebelamb)
-🐙 [GitHub](https://github.com/phoebelamb411) 
+💼 [LinkedIn](https://www.linkedin.com/in/phoebelamb)  
+🐙 [GitHub](https://github.com/phoebelamb411)
 
 ---
 
