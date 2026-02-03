@@ -3,7 +3,7 @@
 **Data Analyst**  
 **Python • R • SQL • Tableau**
 
-I use data to answer the questions that actually drive business decisions — *Where should we allocate budget? Which segments convert? What's the risk-adjusted return? Where are the inefficiencies?*
+I use data to answer the questions that drive business decisions: Where should we allocate capital? Which customer segments convert? What's the risk-adjusted return? Where are we leaving money on the table?*
 
 **Currently:** MSBA candidate at Georgetown University, building a portfolio that spans financial modeling, marketing analytics, and corporate strategy. Every project is designed to demonstrate end-to-end analytical thinking: from messy data to actionable insight.
 
